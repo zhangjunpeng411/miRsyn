@@ -8,7 +8,7 @@ miRTarBase_v7.0.csv: Putative miRNA-target binding information from miRTarBase v
 
 jointIDA_parallel.R: A parallel function for multiple-intervention causal inference.
 
-miRsyn: Scripts for identifying miRNA synergism.
+miRsyn.R: Scripts for identifying miRNA synergism.
 
 ## The usage of miRsyn
 Paste all files into a single folder (set the folder as the directory of R environment), and run the scripts from miRsyn.R.
