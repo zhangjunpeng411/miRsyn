@@ -2,7 +2,7 @@
 Identifying miRNA synergism using multiple-intervention causal inference
 
 ## Description of each file
-BRCA_miR_mR.RData: Matched miRNA and mRNA expression data, and clinical information of TCGA samples.
+BRCA_miR_mR.RData: Matched miRNA and mRNA expression data, and clinical information of TCGA breast cancer samples.
 
 miRTarBase_v7.0.csv: Putative miRNA-target binding information from miRTarBase v7.0.
 
