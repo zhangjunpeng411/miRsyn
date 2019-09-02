@@ -11,4 +11,8 @@ jointIDA_parallel.R: A parallel function for multiple-intervention causal infere
 miRsyn.R: Scripts for identifying miRNA synergism.
 
 ## The usage of miRsyn
-Paste all files into a single folder (set the folder as the directory of R environment), and run the scripts from miRsyn.R.
+Paste all files into a single folder (set the folder as the directory of R environment), the workflow of miRsyn is implemented in miRsyn.R. The users can run the scripts as follows.
+
+```{r echo=FALSE, results='hide', message=FALSE}
+source(miRsyn.R)
+```
